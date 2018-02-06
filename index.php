@@ -46,12 +46,13 @@ else
 			<li><a href="http://aws.amazon.com/articles/4261?_encoding=UTF8&jiveRedirect=1">Getting started guide</a></li>
 			<li><a href="http://aws.amazon.com/documentation/sdkforphp">AWS SDK for PHP documentation</a></li>
 			<li><a href="https://github.com/amazonwebservices/aws-sdk-for-php">AWS SDK for PHP on GitHub</a></li>
+      <li><a href="https://github.com/amazonwebservices/aws-sdk-for-php">AWS SDK for PHP on GitHub</a></li>
 		</ul>
 	</section>
 
 	<!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
 </body>
 </html>
-<? 
-} 
+<?
+}
 ?>
