@@ -39,7 +39,7 @@ else
 <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/using-features.loggingS3.title.html">Working with Logs </a></li>
 		</ul>
 
-		<h2>AWS SDK for PHP</h2>
+		<h2>AWS SDK for PHP11</h2>
 		<ul>
 			<li><a href="http://aws.amazon.com/sdkforphp">AWS SDK for PHP home</a></li>
 			<li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
